@@ -62,7 +62,7 @@ Printed the output feature maps for each case.
 
 **3. CNN Feature Extraction (Edge Detection & Pooling)**
 
-Task 1: Edge Detection using Sobel Filter
+**Task 1: Edge Detection using Sobel Filter**
 
 Loaded a grayscale image using OpenCV.
 
@@ -76,7 +76,7 @@ Edge Detection using Sobel-X
 
 Edge Detection using Sobel-Y
 
-Task 2: Max Pooling and Average Pooling
+**Task 2: Max Pooling and Average Pooling**
 
 Created a random 4×4 matrix as input.
 
