@@ -8,6 +8,7 @@ Name: [Venkata Nanda Krishna Yaram]
 Student ID: [700765514]
 
 Course: [CRN23848 Nueral Networks and Deep learning]
+
 **Project Overview**
 
 This project covers multiple deep learning tasks using TensorFlow/Keras, NumPy, and OpenCV. We explore CNN operations, edge detection, pooling, AlexNet, and ResNet architectures through practical implementations.
